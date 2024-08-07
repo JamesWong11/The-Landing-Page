@@ -17,11 +17,11 @@
     font-weight: 600;
     color: white;
 }
-li {
+.myclass {
     list-style: none;
     display: inline-block;
 }
-li a{
+.myclass a{
     color: white;
     font-size: 19px;
     font-weight: bold;
@@ -37,4 +37,7 @@ button {
 }
 html {
     background-color: black;
+}
+footer {
+    position: absolute;
 }
